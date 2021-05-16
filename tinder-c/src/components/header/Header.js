@@ -1,7 +1,7 @@
 import React from 'react'
 import PersonIcon from '@material-ui/icons/Person';
 import IconButton from '@material-ui/core/IconButton';
-import logo from './assets/logo.png'
+import logo from '../../assets/logo.png'
 
 function Header() {
     return (
